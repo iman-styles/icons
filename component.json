@@ -59,7 +59,35 @@
     "icons/sprite-household-small@2x.png",
     "icons/sprite-household.png",
     "icons/switch.png",
-    "icons/switch.svg"
+    "icons/switch.svg",
+    "icons/icon-blue-arrows-16.png",
+    "icons/icon-blue-arrows-16.svg",
+    "icons/icon-circle-tick-green-32.png",
+    "icons/icon-circle-tick-green-32.svg",
+    "icons/icon-blue-info-32.png",
+    "icons/icon-blue-info-32.svg",
+    "icons/icon-white-info-16.png",
+    "icons/icon-white-info-16.svg",
+    "icons/icon-blue-info-16.png",
+    "icons/icon-blue-info-16.svg",
+    "icons/icon-next-arrow-white-16.png",
+    "icons/icon-next-arrow-white-16.svg",
+    "icons/icon-add-white-10.png",
+    "icons/icon-add-white-10.svg",
+    "icons/icon-avatar-white-32.png",
+    "icons/icon-avatar-white-32.svg",
+    "icons/icon-edit-white-16.png",
+    "icons/icon-edit-white-16.svg",
+    "icons/icon-remove-white-16.png",
+    "icons/icon-remove-white-16.svg",
+    "icons/icon-settings-grey.png",
+    "icons/icon-settings-grey.svg"
+    "icons/icon-triangle-warning-red.png",
+    "icons/icon-triangle-warning-red.svg"
+    "icons/icon-tick-circle-green-lrg.png",
+    "icons/icon-tick-circle-green-lrg.svg"
+    "icons/icon-tick-circle-white-lrg.png",
+    "icons/icon-tick-circle-white-lrg.svg"
   ],
   "repo": "https://raw.github.com/nib-styles/icons"
 }

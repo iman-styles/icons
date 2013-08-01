@@ -1,8 +1,7 @@
 // ICON HELPERS
 // -------------------------------------------------------------------------
 
-//$icon-image-path: "#{$component-path}/iman-styles-icons/icons" !default;
-$icon-image-path: "#{$component-path}/../local/iman-styles-icons/icons" !default;
+$icon-image-path: "#{$component-path}/iman-styles-icons/icons" !default;
 
 @function icon-path($path) {
   @return "#{$icon-image-path}/#{$path}";
