@@ -85,10 +85,9 @@
     "icons/icon-triangle-warning-red.png",
     "icons/icon-triangle-warning-red.svg",
     "icons/icon-tick-circle-green-lrg.png",
-    "icons/icon-tick-circle-green-lrg.svg"
+    "icons/icon-tick-circle-green-lrg.svg",
     "icons/icon-tick-circle-white-lrg.png",
     "icons/icon-tick-circle-white-lrg.svg"
-
   ],
   "repo": "https://raw.github.com/nib-styles/icons"
 }
