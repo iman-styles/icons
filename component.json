@@ -1,7 +1,7 @@
 {
   "name": "icons",
   "main": "index.scss",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "dependencies": {},
   "styles": [
     "index.scss"
@@ -113,6 +113,32 @@
     "icons/sprite-household.png",
     "icons/switch.png",
     "icons/switch.svg"
+    "icons/clock-blue-90.png",
+    "icons/clock-blue.svg",
+    "icons/clock-grey-18.png",
+    "icons/clock-grey.svg",
+    "icons/cross-light-32.png",
+    "icons/cross-light.svg",
+    "icons/cross-white-18.png",
+    "icons/cross-white.svg",
+    "icons/info-blue-16.png",
+    "icons/info-blue.svg",
+    "icons/minus-blue-18.png",
+    "icons/minus-blue.svg",
+    "icons/tick-blue-18.png",
+    "icons/tick-blue.svg",
+    "icons/tick-grey-18.png",
+    "icons/tick-grey.svg",
+    "icons/tick-white-60.png",
+    "icons/tick-white.svg",
+    "icons/white-tick.png",
+    "icons/white-tick.svg",
+    "icons/ambulance-grey-48.png",
+    "icons/ambulance-grey.svg",
+    "icons/hospital-grey-48.png",
+    "icons/hospital-grey.svg",
+    "icons/tooth-white-48.png",
+    "icons/tooth-white.svg"
   ],
   "repo": "https://raw.github.com/nib-styles/icons"
 }

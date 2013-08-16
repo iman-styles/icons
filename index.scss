@@ -679,3 +679,80 @@ $icon-image-path: "#{$component-path}/iman-styles-icons/icons" !default;
   @extend %icon-purple-lrg;
   -webkit-mask-image: icon-url('mask-circle.svg');
 }
+
+.icon-tick-white-60 {
+  width: 60px;
+  height: 60px;
+  background-image: icon-url('tick-white-60.png');
+  background-image: icon-url('tick-white.svg'), none;
+}
+
+.icon-tick-grey-18 {
+  width: 18px;
+  height: 18px;
+  background-image: icon-url('tick-grey-18.png');
+  background-image: icon-url('tick-grey.svg'), none;
+}
+
+.icon-tick-blue-18 {
+  width: 18px;
+  height: 18px;
+  background-image: icon-url('tick-blue-18.png');
+  background-image: icon-url('tick-blue.svg'), none;
+}
+
+.icon-cross-white-18 {
+  width: 18px;
+  height: 18px;
+  background-image: icon-url('cross-white-18.png');
+  background-image: icon-url('cross-white.svg'), none;
+}
+
+.icon-cross-grey-18 {
+  width: 18px;
+  height: 18px;
+  background-image: icon-url('cross-grey-18.png');
+  background-image: icon-url('cross-grey.svg'), none;
+}
+
+.icon-clock-blue-90 {
+  width: 90px;
+  height: 90px;
+  background-image: icon-url('clock-blue-90.png');
+  background-image: icon-url('clock-blue.svg'), none;
+}
+
+.icon-info-blue-16 {
+  width: 16px;
+  height: 16px;
+  background-image: icon-url('info-blue-16.png');
+  background-image: icon-url('info-blue.svg'), none;
+}
+
+.icon-ambulance-grey-48 {
+  width: 48px;
+  height: 48px;
+  background-image: icon-url('ambulance-grey-48.png');
+  background-image: icon-url('ambulance-grey.svg'), none;
+}
+
+.icon-tooth-white-32 {
+  width: 32px;
+  height: 32px;
+  background-image: icon-url('tooth-white-32.png');
+  background-image: icon-url('tooth-white.svg'), none;
+}
+
+.icon-hospital-grey-48 {
+  width: 48px;
+  height: 48px;
+  background-image: icon-url('hospital-grey-48.png');
+  background-image: icon-url('hospital-grey.svg'), none;
+}
+
+.icon-doctor-mbs-grey-48 {
+  width: 48px;
+  height: 58px;
+  background-image: icon-url('doctor-mbs-grey-48.png');
+  background-image: icon-url('doctor-mbs-grey.svg'), none;
+}
