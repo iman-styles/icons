@@ -404,6 +404,14 @@ $icon-image-path: "#{$component-path}/iman-styles-icons/icons" !default;
   width: 60px;
 }
 
+.icon-16-green-tick {
+  @extend .icon;
+  background-image: icon-url('icon-tick-circle-green-16.png');
+  background-image: icon-url('icon-tick-circle-green-16.svg'), none;
+  height: 16px;
+  width: 16px;
+}
+
 .icon-triangle-warning-red {
   @include svg-icon-background-image('icon-triangle-warning-red');
   height: 53px;
@@ -568,4 +576,106 @@ $icon-image-path: "#{$component-path}/iman-styles-icons/icons" !default;
 .icon-blue-arrow-right {
   @extend %icon-blue-arrow-16;
   background-position: 0 0;
+}
+
+/*
+  A list of icons with tooltips
+*/
+
+.icon-list {
+  margin: 0 -20px
+}
+
+.icon-list__item {
+  float: left;
+  text-align: center;
+  width: 12.5%;
+}
+
+.icon-list__icon {
+  @extend .icon;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 48px;
+  width: 48px;
+
+  .inactive-icon & {
+    background-position: 0 -48px;
+  }
+}
+
+.icon-titled__title {
+  color:#888;
+  font-family: $font-family-roboto;
+  line-height: 18px;
+
+  .inactive-icon & {
+    color: #cfcfcf;
+  }
+}
+
+.icon-doctor-circled-grey-48 {
+  background-image: icon-url('icon-doctor-circled-grey-48.png');
+  background-image: icon-url('icon-doctor-circled-grey-48.svg'), none;
+}
+
+.icon-dental-circled-grey-48 {
+  background-image: icon-url('icon-dental-circled-grey-48.png');
+  background-image: icon-url('icon-dental-circled-grey-48.svg'), none;
+}
+
+.icon-physio-circled-grey-48 {
+  background-image: icon-url('icon-physio-circled-grey-48.png');
+  background-image: icon-url('icon-physio-circled-grey-48.svg'), none;
+}
+
+.icon-medicine-circled-grey-48 {
+  background-image: icon-url('icon-medicine-circled-grey-48.png');
+  background-image: icon-url('icon-medicine-circled-grey-48.svg'), none;
+}
+
+.icon-optical-circled-grey-48 {
+  background-image: icon-url('icon-optical-circled-grey-48.png');
+  background-image: icon-url('icon-optical-circled-grey-48.svg'), none;
+}
+
+.icon-pregnancy-circled-grey-48 {
+  background-image: icon-url('icon-pregnancy-circled-grey-48.png');
+  background-image: icon-url('icon-pregnancy-circled-grey-48.svg'), none;
+}
+
+.icon-rollover-circled-grey-48 {
+  background-image: icon-url('icon-rollover-circled-grey-48.png');
+  background-image: icon-url('icon-rollover-circled-grey-48.svg'), none;
+}
+
+%icon-purple-lrg {
+  @extend .icon;
+  background-position: center center;
+  background-repeat: no-repeat;
+  border-radius: 32px;
+  border: 1px solid $purple-light;
+  height: 42px;
+  overflow: hidden;
+  padding: 10px;
+  width: 42px;
+}
+
+.icon-switching-purple-lrg {
+  @extend %icon-purple-lrg;
+  background-image: icon-url('icon-switching-purple-lrg.png');
+  background-image: icon-url('icon-switching-purple-lrg.svg'), none;
+}
+
+.icon-airplane-purple-lrg {
+  background-image: icon-url('icon-airplane-purple-lrg.png');
+  background-image: icon-url('icon-airplane-purple-lrg.svg'), none;
+  display: block;
+  height: 42px;
+  width: 42px;
+}
+
+.icon-airplane-purple-container {
+  @extend %icon-purple-lrg;
+  -webkit-mask-image: icon-url('mask-circle.svg');
 }
