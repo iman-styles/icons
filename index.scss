@@ -653,12 +653,12 @@ $icon-image-path: "#{$component-path}/iman-styles-icons/icons" !default;
   @extend .icon;
   background-position: center center;
   background-repeat: no-repeat;
-  border-radius: 32px;
+  border-radius: 52px;
   border: 1px solid $purple-light;
-  height: 42px;
+  height: 52px;
   overflow: hidden;
   padding: 10px;
-  width: 42px;
+  width: 52px;
 }
 
 .icon-switching-purple-lrg {
@@ -670,8 +670,12 @@ $icon-image-path: "#{$component-path}/iman-styles-icons/icons" !default;
 .icon-airplane-purple-lrg {
   background-image: icon-url('icon-airplane-purple-lrg.png');
   background-image: icon-url('icon-airplane-purple-lrg.svg'), none;
+  background-position: center center;
+  background-repeat: no-repeat;
+  border: none;
   display: block;
   height: 42px;
+  padding: 5px;
   width: 42px;
 }
 
@@ -681,78 +685,78 @@ $icon-image-path: "#{$component-path}/iman-styles-icons/icons" !default;
 }
 
 .icon-tick-white-60 {
-  width: 60px;
-  height: 60px;
   background-image: icon-url('tick-white-60.png');
   background-image: icon-url('tick-white.svg'), none;
+  height: 60px;
+  width: 60px;
 }
 
 .icon-tick-grey-18 {
-  width: 18px;
-  height: 18px;
   background-image: icon-url('tick-grey-18.png');
   background-image: icon-url('tick-grey.svg'), none;
+  height: 18px;
+  width: 18px;
 }
 
 .icon-tick-blue-18 {
-  width: 18px;
-  height: 18px;
   background-image: icon-url('tick-blue-18.png');
   background-image: icon-url('tick-blue.svg'), none;
+  height: 18px;
+  width: 18px;
 }
 
 .icon-cross-white-18 {
-  width: 18px;
-  height: 18px;
   background-image: icon-url('cross-white-18.png');
   background-image: icon-url('cross-white.svg'), none;
+  height: 18px;
+  width: 18px;
 }
 
 .icon-cross-grey-18 {
-  width: 18px;
-  height: 18px;
   background-image: icon-url('cross-grey-18.png');
   background-image: icon-url('cross-grey.svg'), none;
+  height: 18px;
+  width: 18px;
 }
 
 .icon-clock-blue-90 {
-  width: 90px;
-  height: 90px;
   background-image: icon-url('clock-blue-90.png');
   background-image: icon-url('clock-blue.svg'), none;
+  height: 90px;
+  width: 90px;
 }
 
 .icon-info-blue-16 {
-  width: 16px;
-  height: 16px;
   background-image: icon-url('info-blue-16.png');
   background-image: icon-url('info-blue.svg'), none;
+  height: 16px;
+  width: 16px;
 }
 
 .icon-ambulance-grey-48 {
-  width: 48px;
-  height: 48px;
   background-image: icon-url('ambulance-grey-48.png');
   background-image: icon-url('ambulance-grey.svg'), none;
+  height: 48px;
+  width: 48px;
 }
 
 .icon-tooth-white-32 {
-  width: 32px;
-  height: 32px;
   background-image: icon-url('tooth-white-32.png');
   background-image: icon-url('tooth-white.svg'), none;
+  height: 32px;
+  width: 32px;
 }
 
 .icon-hospital-grey-48 {
-  width: 48px;
-  height: 48px;
   background-image: icon-url('hospital-grey-48.png');
   background-image: icon-url('hospital-grey.svg'), none;
+  height: 48px;
+  width: 48px;
 }
 
 .icon-doctor-mbs-grey-48 {
-  width: 48px;
-  height: 58px;
   background-image: icon-url('doctor-mbs-grey-48.png');
   background-image: icon-url('doctor-mbs-grey.svg'), none;
+  height: 58px;
+  width: 48px;
 }
