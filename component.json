@@ -138,7 +138,9 @@
     "icons/hospital-grey-48.png",
     "icons/hospital-grey.svg",
     "icons/tooth-white-32.png",
-    "icons/tooth-white.svg"
+    "icons/tooth-white.svg",
+    "icons/icon-green-circle-tick-24.svg",
+    "icons/icon-green-circle-tick-24.png"
   ],
   "repo": "https://raw.github.com/nib-styles/icons"
 }

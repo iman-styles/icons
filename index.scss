@@ -760,3 +760,11 @@ $icon-image-path: "#{$component-path}/iman-styles-icons/icons" !default;
   height: 58px;
   width: 48px;
 }
+
+.icon-green-circle-tick-24 {
+  @extend .icon;
+  background-image: icon-url('icon-green-circle-tick-24.png');
+  background-image: icon-url('icon-green-circle-tick-24.svg'), none;
+  height: 24px;
+  width: 24px;
+}
