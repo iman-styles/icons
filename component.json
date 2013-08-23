@@ -140,7 +140,9 @@
     "icons/tooth-white-32.png",
     "icons/tooth-white.svg",
     "icons/icon-green-circle-tick-24.svg",
-    "icons/icon-green-circle-tick-24.png"
+    "icons/icon-green-circle-tick-24.png",
+    "icons/icon-arrow-down-white-10.svg",
+    "icons/icon-arrow-down-white-10.png"
   ],
   "repo": "https://raw.github.com/nib-styles/icons"
 }
