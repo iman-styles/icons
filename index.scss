@@ -484,12 +484,20 @@ $icon-image-path: "#{$component-path}/iman-styles-icons/icons" !default;
   width: 16px;
 }
 
-.icon-avatar {
+.icon-avatar-white-32 {
   @extend .icon;
   background: icon-url('icon-avatar-white-32.png') no-repeat 0 0;
   background-image: icon-url('icon-avatar-white-32.svg'), none;
   height: 32px;
   width: 32px;
+}
+
+.icon-avatar-white-21{
+  @extend .icon;
+  background: icon-url('icon-avatar-white-21.png') no-repeat 0 0;
+  background-image: icon-url('icon-avatar-white-21.svg'), none;
+  height: 24px;
+  width: 24px;
 }
 
 .icon-green-add {
