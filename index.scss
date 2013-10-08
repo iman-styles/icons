@@ -496,8 +496,8 @@ $icon-image-path: "#{$component-path}/iman-styles-icons/icons" !default;
   @extend .icon;
   background: icon-url('icon-avatar-white-21.png') no-repeat 0 0;
   background-image: icon-url('icon-avatar-white-21.svg'), none;
-  height: 24px;
-  width: 24px;
+  height: 21px;
+  width: 21px;
 }
 
 .icon-green-add {
