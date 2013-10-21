@@ -144,7 +144,11 @@
     "icons/icon-green-circle-tick-24.svg",
     "icons/icon-green-circle-tick-24.png",
     "icons/icon-arrow-down-white-10.svg",
-    "icons/icon-arrow-down-white-10.png"
+    "icons/icon-arrow-down-white-10.png",
+    "icons/icon-check-list.png",
+    "icons/icon-check-list.svg",
+    "icons/icon-email-information.png",
+    "icons/icon-email-information.svg"
   ],
   "repo": "https://raw.github.com/nib-styles/icons"
 }

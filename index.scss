@@ -784,3 +784,19 @@ $icon-image-path: "#{$component-path}/iman-styles-icons/icons" !default;
   height: 6px;
   width: 10px;
 }
+
+.icon-check-list {
+  @extend .icon;
+  background-image: icon-url('icon-check-list.png');
+  background-image: icon-url('icon-check-list.svg'), none;
+  height: 60px;
+  width: 60px;
+}
+
+.icon-email-notification {
+  @extend .icon;
+  background-image: icon-url('icon-email-notification.png');
+  background-image: icon-url('icon-email-notification.svg'), none;
+  height: 60px;
+  width: 60px;
+}
