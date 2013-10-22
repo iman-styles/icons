@@ -148,7 +148,11 @@
     "icons/icon-check-list.png",
     "icons/icon-check-list.svg",
     "icons/icon-email-information.png",
-    "icons/icon-email-information.svg"
+    "icons/icon-email-information.svg",
+    "icons/icon-location-pin.png",
+    "icons/icon-location-pin.svg",
+    "icons/icon-facebook-20.png",
+    "icons/icon-facebook-20.svg"
   ],
   "repo": "https://raw.github.com/nib-styles/icons"
 }

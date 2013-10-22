@@ -800,3 +800,19 @@ $icon-image-path: "#{$component-path}/iman-styles-icons/icons" !default;
   height: 60px;
   width: 60px;
 }
+
+.icon-location-pin {
+  @extend .icon;
+  background-image: icon-url('icon-location-pin.png');
+  background-image: icon-url('icon-location-pin.svg'), none;
+  height: 16px;
+  width: 11px;
+}
+
+.icon-facebook-20 {
+  @extend .icon;
+  background-image: icon-url('icon-facebook-20.png');
+  background-image: icon-url('icon-facebook-20.svg'), none;
+  height: 20px;
+  width: 20px;
+}
