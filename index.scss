@@ -158,6 +158,13 @@ $icon-image-path: "#{$component-path}/iman-styles-icons/icons" !default;
   width: 24px;
 }
 
+.icon-phone-white-large {
+  @extend .icon;
+  background: icon-url('icon-phone-white-large.png') no-repeat center center;
+  height: 24px;
+  width: 18px;
+}
+
 .icon-orange-plus {
   @extend .icon;
   background: icon-url('icon-btn-orange-plus.png') no-repeat center center;
@@ -791,6 +798,12 @@ $icon-image-path: "#{$component-path}/iman-styles-icons/icons" !default;
   background-image: icon-url('icon-check-list.svg'), none;
   height: 60px;
   width: 60px;
+}
+.icon-email {
+  @extend .icon;
+  background-image: icon-url('icon-email.png');
+  height: 18px;
+  width: 25px;
 }
 
 .icon-email-notification {

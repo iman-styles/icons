@@ -1,7 +1,7 @@
 {
   "name": "icons",
   "main": "index.scss",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "dependencies": {},
   "styles": [
     "index.scss"
@@ -75,6 +75,7 @@
     "icons/icon-optical-circled-grey-48.svg",
     "icons/icon-phone-grey-24.png",
     "icons/icon-phone-white.png",
+    "icons/icon-phone-white-large.png",
     "icons/icon-physio-circled-grey-48.png",
     "icons/icon-physio-circled-grey-48.svg",
     "icons/icon-plus-light-grey-30.png",
@@ -147,6 +148,7 @@
     "icons/icon-arrow-down-white-10.png",
     "icons/icon-check-list.png",
     "icons/icon-check-list.svg",
+    "icons/icon-email.png",
     "icons/icon-email-notification.png",
     "icons/icon-email-notification.svg",
     "icons/icon-location-pin.png",
