@@ -155,7 +155,9 @@
     "icons/icon-location-pin.png",
     "icons/icon-location-pin.svg",
     "icons/icon-facebook-20.png",
-    "icons/icon-facebook-20.svg"
+    "icons/icon-facebook-20.svg",
+    "icons/external-link-grey.png",
+    "icons/external-link-white.png"
   ],
   "repo": "https://raw.githubusercontent.com/iman-styles/icons"
 }
